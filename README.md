@@ -2,7 +2,7 @@
 
 A simple application to livestream using OBS
 
-This app is split into the [Streams Repository](https://github.com/R-Currie/streams) and the [Streams API Repository[(https://github.com/R-Currie/streamsapi)
+This app is split into the [Streams Repository](https://github.com/R-Currie/streams) and the [Streams API Repository](https://github.com/R-Currie/streamsapi)
 
 ### Getting Started
 * Create an account or sign in with Gmail
