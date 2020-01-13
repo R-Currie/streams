@@ -30,9 +30,3 @@ This app is split into the [Streams Repository](https://github.com/R-Currie/stre
 4. Start server
 > npm start
 5. Start streaming!
-
-### Learn More About React
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
