@@ -14,7 +14,7 @@ This app is split into the [Streams Repository](https://github.com/R-Currie/stre
 * [React-Router-DOM](https://reacttraining.com/react-router/web/guides/quick-start) 5.1.2
 * [Redux](https://redux.js.org/) 4.0.4
 * [React-Redux](https://react-redux.js.org/) 7.1.1
-* [edux-Thunk](https://github.com/reduxjs/redux-thunk) 2.3.0
+* [Redux-Thunk](https://github.com/reduxjs/redux-thunk) 2.3.0
 * [Axios](https://github.com/axios/axios) 0.19.0
 * [lodash](https://lodash.com/docs/4.17.15) 4.17.15
 * [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
